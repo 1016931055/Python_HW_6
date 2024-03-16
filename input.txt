@@ -1,0 +1,10 @@
+1292 animals female
+0042 lion male Pushok 13.09.2015 31.12.2016
+0043 dog female Dora 29.01.2015 31.12.2016
+0003 dog male Max 03.03.2011 31.12.2016
+0012 dog male Max 03.03.2011 31.12.2016
+0003 catio male Max 03.03.2011 31.12.2016
+0003 catio male Max 03.03.2011 31.12.2016
+0022 lion male Pushok 13.09.2015 31.12.2016
+1212 lion female Pushok 13.09.2015 31.12.2016
+9991 dog male
